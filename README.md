@@ -1,9 +1,9 @@
-## Hi I'm Adriana 👋
+## Currently learning: Python
 
-### Currently learning: Python
+Every week, I make a visual map of my Python learning journey — I share what I learn, how I learned it, and my learning doodle.
 
-Every week, I make a visual map of my “learning life” — I share what I learn, how I learned it, and my learning doodle.
- 👉 [Check it out](https://adrianavanegas.substack.com/) 👈
+ 👉 [Check out my learning map](https://adrianavanegas.substack.com/) 👈
+ 
 <!--
 **adriana-vanegas/adriana-vanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
