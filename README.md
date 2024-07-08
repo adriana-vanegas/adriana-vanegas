@@ -1,6 +1,6 @@
 ## Currently learning: Python
 
-Every week, I make a visual map of my Python learning journey — I share what I learn, how I learned it, and my learning doodle.
+Every week, I make a visual map of my Python learning journey — I share what I learn, how I learned it, and my learning map.
 
  👉 [Check out my learning map](https://adrianavanegas.substack.com/) 👈
  
