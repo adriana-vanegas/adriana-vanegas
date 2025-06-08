@@ -1,6 +1,6 @@
-## Currently learning: Python
+## Currently learning: JavaScript
 
-Every week, I make a visual map of my Python learning journey — I share what I learn, how I learned it, and my learning map.
+As much as possible, I try to share a visual map of my Javascript learning journey — I share what I learn, how I learned it, and my learning map.
 
  👉 [Check out my learning map](https://adrianavanegas.substack.com/) 👈
  
